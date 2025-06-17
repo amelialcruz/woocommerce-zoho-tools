@@ -102,6 +102,3 @@ Contributions are welcome\! If you have suggestions for improvements, new featur
 
 -----
 
-```
-```
-
